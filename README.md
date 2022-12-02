@@ -13,4 +13,4 @@ I made the following changes:
   My final change was with the sounds. I changed the background sound to be a soothing river noise I found. I then added a pop
   noise anytime a ball hits the wall or the sun block.
   
-The website that runs the program is at [https://github.com/katedouglass3/BouncingBall-p5js]
+The website that runs the program is at [https://github.com/katedouglass3/BouncingBall-p5js].
