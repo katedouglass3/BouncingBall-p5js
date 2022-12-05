@@ -15,6 +15,6 @@ noise anytime a ball hits the wall or the sun block.
 
 Below is a snapshot of the program running.
   
-The website that runs the program is at [https://github.com/katedouglass3/BouncingBall-p5js].
+The website that runs the program is at [https://katedouglass3.github.io/BouncingBall-p5js/].
 <img width="458" alt="image" src="https://user-images.githubusercontent.com/119433696/205210556-c5e7fdb5-4493-4a17-a7c6-c0a24fb00586.png">
 
